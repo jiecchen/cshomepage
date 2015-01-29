@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{code.html}, nofooter
+= Code
+
+== mcTextDiff
+[https://github.com/MathCraft/MathCraftAddOn/blob/master/MathCraftAddOn/MathCraftAddOn/Text.m This] package can be used to *diff* two text files in /Mathematica/\R. An example can be found [figures/diff.gif here].
+
+== StreamLib
+I am trying to implement a collection of streaming algorithms in pure python, with minimal dependency. The original version is not well-designed, need to redesign the interface. Check [https://github.com/jiecchen/StreamLib github].
+

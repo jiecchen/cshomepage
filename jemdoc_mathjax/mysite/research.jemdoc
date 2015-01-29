@@ -1,3 +1,15 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
-== Research
-...
+= Research
+My research interests focus on Randomized Algorithms, Approximation Algorithms and their application on Numerical Linear Algebra, Database and Machine Learning.
+
+== Manuscript 
+- *A Sketching Algorithm for Spectral Graph Sparsification* with Bo Qin, [http://researcher.watson.ibm.com/researcher/view.php?person=us-dpwoodru David Woodruff] and [http://homes.soic.indiana.edu/qzhangcs/ Qin Zhang], [http://arxiv.org/abs/1412.8225 arXiv]
+
+- *A Generic Algorithm for Distributed Monitoring, with Applications to Entropy* with [http://homes.soic.indiana.edu/qzhangcs/ Qin Zhang], [http://arxiv.org/abs/1409.4843 arXiv]
+
+== Publication
+Trying hard to add something here...
+
+== Resources
+- David Woodruff's new book [http://researcher.watson.ibm.com/researcher/files/us-dpwoodru/wNow.pdf Sketching as a Tool for Numerical Linear Algebra] (legally available online, be careful of errors/typos)
+- Michael Mahoney's wonderful survey on [http://arxiv.org/abs/1104.5557 Randomized algorithms for matrices and data]

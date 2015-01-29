@@ -1,0 +1,5 @@
+# jemdoc: menu{MENU}{code.html}, nofooter
+= Code
+
+== StreamLib
+I am trying to implement a collection of streaming algorithms in pure python, with minimal dependency. The original version is not well-designed, need to redesign the interface. Check [https://github.com/jiecchen/StreamLib github].
